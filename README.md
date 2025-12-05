@@ -2,19 +2,24 @@
 
 ```
 Root
-├─PixelArtReference   # 收集的素材/Collected Materials
-│  ├─Gif              # 动图素材 / GIF Materials   
-│  ├─Machine          # 机器绘画素材 / Machine Materials
-│  ├─物品             # 杂物素材 / various things Materials
+├─PixelArtReference   # 收集的素材 / Collected Materials
 │  ├─船               # 船素材 / Ship Materials
-│  ├─角色             # 角色素材 / Character Materials
-│  └─风景             # 风景素材 / Scenery Materials
+│  ├─风景建筑          # 风景建筑 素材 / Landscape,Building Materials
+│  ├─花               # 花素材 / Flower Materials
+│  ├─机械载具枪        # 机械载具枪素材 / Mechanical,Vehicle,Gun Material
+│  ├─角色              # 角色素材 / Character Materials
+│  ├─人型机器          # 人型机器素材 / Robot Materials
+│  ├─食物              # 食物素材 / Food Materials
+│  ├─树               # 树素材 / Tree Materials
+│  ├─头脸             # 头脸素材 / Face Materials
+│  ├─物品             # 杂物素材 / Various things Materials
+│  ├─Gif              # 动图素材 / GIF Materials   
+│  └─Saint11          # Saint11像素画教程 / Saint11 Tutorials
 │
 └─PixelProjects
-   ├─Canvas__record   # 延时摄影 临时存储 / Delay Photography Temporary Storage
+   ├─素材             # 绘画时用的临时素材 / Temporary materials during drawing
    ├─output           # 输出，记录每次练习 / Record Each Exercise
-   ├─Temp             # 练习时用的临时素材 / Temporary materials during practice
-   └─素材             # 其他素材 / Other materials 
+   └─Canvas.aseprite  # 像素画布 / Pixel Canvas
 ```
 
 >用于记录我在学习/练习像素画上的进步，和每一次的练习项目。
