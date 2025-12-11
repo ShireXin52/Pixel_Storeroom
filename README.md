@@ -14,6 +14,8 @@ Root
 │  ├─头脸             # 头脸素材 / Face Materials
 │  ├─物品             # 杂物素材 / Various things Materials
 │  ├─Gif              # 动图素材 / GIF Materials   
+│  ├─SANABI           # 闪避刺客动画 / SANABI Animation
+│  ├─CAT02A           # CAT02A动画 / CAT02A Animation
 │  └─Saint11          # Saint11像素画教程 / Saint11 Tutorials
 │
 └─PixelProjects
